@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620944046 source:e:\codeblocks\pr15\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+
